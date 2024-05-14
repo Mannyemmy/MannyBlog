@@ -4,9 +4,6 @@
 A simple blog built with NextJS 13 App Router and Typescript to show its features
 
 
-#### Screenshot
-
-<img src="screenshot.png" alt="screenshot" width="300">
 
 ## Run App Locally
 
