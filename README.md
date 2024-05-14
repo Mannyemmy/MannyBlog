@@ -1,12 +1,8 @@
 # NextJS App Router Blog
 
-> Note: This is the Next.js 13 App Router version of the [NextJS Blog App](https://github.com/emanuelefavero/nextjs-blog)
 
 A simple blog built with NextJS 13 App Router and Typescript to show its features
 
-## Demo
-
-[https://nextjs-blog-typescript-rho.vercel.app/](https://nextjs-blog-typescript-rho.vercel.app/)
 
 #### Screenshot
 
@@ -21,7 +17,6 @@ A simple blog built with NextJS 13 App Router and Typescript to show its feature
 
 ## **Typescript in NextJS**
 
-- [NextJS Typescript Cheat Sheet](https://github.com/emanuelefavero/nextjs-typescript)
 - [NextJS Typescript Docs](https://nextjs.org/docs/basic-features/typescript)
 
 > Note: Since this app is built using Next.js 13 App Router, please refer to newer Typescript docs for Next.js 13
